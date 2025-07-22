@@ -281,6 +281,25 @@
     text-align: center;
 }
 
+
+.overlaytext1::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 35%;
+  width: 100px;
+  height: 6px;
+  background: none;
+  z-index: 1;
+}
+
+
+       #banner .search {
+      margin-top: -37rem;
+        
+    }
+
+
   }
 
 
